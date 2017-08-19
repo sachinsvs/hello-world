@@ -1,2 +1,4 @@
 # hello-world
-first github repository
+Hello Folks,
+
+I am sachin,I like Android Development and Web Development
